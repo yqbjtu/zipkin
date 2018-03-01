@@ -6,3 +6,4 @@ generated
 !.gitignore
 **/*.iml
 test-output/
+/bin/
